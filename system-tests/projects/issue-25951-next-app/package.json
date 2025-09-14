@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@types/node": "18.17.5",
-    "@types/react": "18.0.32",
+    "@types/react": "18.3.24",
     "@types/react-dom": "18.0.11",
     "next": "14.2.32",
     "react": "18.2.0",
