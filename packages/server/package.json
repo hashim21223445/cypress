@@ -81,7 +81,7 @@
     "is-ci": "^3.0.1",
     "is-fork-pr": "2.5.0",
     "is-html": "2.0.0",
-    "jimp": "0.22.12",
+    "jimp": "1.0.2",
     "jose": "^4.15.5",
     "json-parse-even-better-errors": "^3.0.2",
     "launch-editor": "2.8.0",
