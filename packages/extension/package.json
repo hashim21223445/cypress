@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "bluebird": "3.5.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@packages/icons": "0.0.0-development",
