@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "react": "15.6.2",
-    "vite": "5.4.21"
+    "vite": "6.4.2"
   }
 }
