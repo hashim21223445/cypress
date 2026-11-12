@@ -13,7 +13,7 @@
   "dependencies": {},
   "devDependencies": {
     "@angular/common": "^14.2.0",
-    "@angular/core": "^14.2.0",
+    "@angular/core": "^19.2.20",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@cypress/mount-utils": "0.0.0-development",
     "typescript": "~5.4.5",
