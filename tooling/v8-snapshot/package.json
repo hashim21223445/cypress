@@ -21,7 +21,7 @@
     "convert-source-map": "^1.8.0",
     "debug": "^4.3.4",
     "resolve-from": "^5.0.0",
-    "source-map-js": "^0.6.2",
+    "source-map-js": "^1.2.2",
     "temp-dir": "^2.0.0",
     "terser": "5.14.2",
     "tslib": "^2.0.1",
