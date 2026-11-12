@@ -13,7 +13,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@angular/common": "^17.2.0",
+    "@angular/common": "^20.3.34",
     "@angular/core": "^17.2.0",
     "@angular/platform-browser-dynamic": "^17.2.0",
     "@cypress/mount-utils": "0.0.0-development",
