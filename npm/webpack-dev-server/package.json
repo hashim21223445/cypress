@@ -40,7 +40,7 @@
     "sinon": "^16.1.2",
     "snap-shot-it": "^7.9.6",
     "ts-node": "^10.9.2",
-    "webpack": "5.94.0",
+    "webpack": "5.104.1",
     "webpack-4": "npm:webpack@^4",
     "webpack-dev-server-3": "npm:webpack-dev-server@^3",
     "webpack-dev-server-5": "npm:webpack-dev-server@^5"
