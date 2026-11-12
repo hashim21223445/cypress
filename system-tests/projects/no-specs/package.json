@@ -6,6 +6,6 @@
   },
   "devDependencies": {
     "typescript": "^4.0.0",
-    "webpack": "^5.88.2"
+    "webpack": "^5.104.1"
   }
 }
